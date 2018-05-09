@@ -1,0 +1,374 @@
+fileFormatVersion: 2
+guid: b1c54a8c27368ed4b809f85882697bae
+timeCreated: 1524662605
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: ' 1'
+    100002: ' 10'
+    100004: ' 11'
+    100006: ' 12'
+    100008: ' 13'
+    100010: ' 14'
+    100012: ' 15'
+    100014: ' 16'
+    100016: ' 17'
+    100018: ' 18'
+    100020: ' 19'
+    100022: ' 2'
+    100024: ' 20'
+    100026: ' 21'
+    100028: ' 22'
+    100030: ' 23'
+    100032: ' 24'
+    100034: ' 25'
+    100036: ' 3'
+    100038: ' 4'
+    100040: ' 5'
+    100042: ' 6'
+    100044: ' 7'
+    100046: ' 8'
+    100048: ' 9'
+    100050: 134.png
+    100052: 1345.png
+    100054: 34343434.png
+    100056: Anime Studio Camera
+    100058: B1
+    100060: B10
+    100062: B11
+    100064: B12
+    100066: B13
+    100068: B2
+    100070: B22
+    100072: B23
+    100074: B24
+    100076: B25
+    100078: B26
+    100080: B27
+    100082: B28
+    100084: B29
+    100086: B30
+    100088: B31
+    100090: B32
+    100092: B33
+    100094: B34
+    100096: B4
+    100098: B5
+    100100: B6
+    100102: B7
+    100104: B8
+    100106: B9
+    100108: etetert.png
+    100110: f1+1.png
+    100112: f1.png
+    100114: f3.png
+    100116: f4.png
+    100118: Golova
+    100120: klik1+1.png
+    100122: klik1.png
+    100124: Layer 10
+    100126: mal ruka left
+    100128: rika right
+    100130: ruka left
+    100132: toga1+1.png
+    100134: toga1.png
+    100136: toga3.png
+    100138: toga4.png
+    100140: tors.png
+    100142: vspom ruka
+    100144: //RootNode
+    100146: "\u0437\u0440\u0430\u0447\u043A.png"
+    100148: "\u043D\u043E\u0433\u0430"
+    100150: "\u043D\u043E\u0433\u0430\u0434\u0432\u0430"
+    100152: "\u0440\u0443\u043A\u04301+1+1.png"
+    100154: "\u0440\u0443\u043A\u043011.png"
+    100156: "\u0440\u0443\u043A\u04303.png"
+    100158: "\u0443\u04411+1.png"
+    100160: "\u0443\u04411.png"
+    100162: "\u04441+1.png"
+    100164: "\u04441.png"
+    100166: "\u04443.png"
+    100168: "\u0456\u0430\u04561+1.png"
+    100170: "\u0456\u0430\u04561.png"
+    400000: ' 1'
+    400002: ' 10'
+    400004: ' 11'
+    400006: ' 12'
+    400008: ' 13'
+    400010: ' 14'
+    400012: ' 15'
+    400014: ' 16'
+    400016: ' 17'
+    400018: ' 18'
+    400020: ' 19'
+    400022: ' 2'
+    400024: ' 20'
+    400026: ' 21'
+    400028: ' 22'
+    400030: ' 23'
+    400032: ' 24'
+    400034: ' 25'
+    400036: ' 3'
+    400038: ' 4'
+    400040: ' 5'
+    400042: ' 6'
+    400044: ' 7'
+    400046: ' 8'
+    400048: ' 9'
+    400050: 134.png
+    400052: 1345.png
+    400054: 34343434.png
+    400056: Anime Studio Camera
+    400058: B1
+    400060: B10
+    400062: B11
+    400064: B12
+    400066: B13
+    400068: B2
+    400070: B22
+    400072: B23
+    400074: B24
+    400076: B25
+    400078: B26
+    400080: B27
+    400082: B28
+    400084: B29
+    400086: B30
+    400088: B31
+    400090: B32
+    400092: B33
+    400094: B34
+    400096: B4
+    400098: B5
+    400100: B6
+    400102: B7
+    400104: B8
+    400106: B9
+    400108: etetert.png
+    400110: f1+1.png
+    400112: f1.png
+    400114: f3.png
+    400116: f4.png
+    400118: Golova
+    400120: klik1+1.png
+    400122: klik1.png
+    400124: Layer 10
+    400126: mal ruka left
+    400128: rika right
+    400130: ruka left
+    400132: toga1+1.png
+    400134: toga1.png
+    400136: toga3.png
+    400138: toga4.png
+    400140: tors.png
+    400142: vspom ruka
+    400144: //RootNode
+    400146: "\u0437\u0440\u0430\u0447\u043A.png"
+    400148: "\u043D\u043E\u0433\u0430"
+    400150: "\u043D\u043E\u0433\u0430\u0434\u0432\u0430"
+    400152: "\u0440\u0443\u043A\u04301+1+1.png"
+    400154: "\u0440\u0443\u043A\u043011.png"
+    400156: "\u0440\u0443\u043A\u04303.png"
+    400158: "\u0443\u04411+1.png"
+    400160: "\u0443\u04411.png"
+    400162: "\u04441+1.png"
+    400164: "\u04441.png"
+    400166: "\u04443.png"
+    400168: "\u0456\u0430\u04561+1.png"
+    400170: "\u0456\u0430\u04561.png"
+    2000000: Anime Studio Camera
+    2100000: No Name
+    2300000: 134.png
+    2300002: 1345.png
+    2300004: 34343434.png
+    2300006: etetert.png
+    2300008: f1+1.png
+    2300010: f1.png
+    2300012: f3.png
+    2300014: f4.png
+    2300016: klik1+1.png
+    2300018: klik1.png
+    2300020: toga1+1.png
+    2300022: toga1.png
+    2300024: toga3.png
+    2300026: toga4.png
+    2300028: tors.png
+    2300030: "\u0437\u0440\u0430\u0447\u043A.png"
+    2300032: "\u0440\u0443\u043A\u04301+1+1.png"
+    2300034: "\u0440\u0443\u043A\u043011.png"
+    2300036: "\u0440\u0443\u043A\u04303.png"
+    2300038: "\u0443\u04411+1.png"
+    2300040: "\u0443\u04411.png"
+    2300042: "\u04441+1.png"
+    2300044: "\u04441.png"
+    2300046: "\u04443.png"
+    2300048: "\u0456\u0430\u04561+1.png"
+    2300050: "\u0456\u0430\u04561.png"
+    3300000: 134.png
+    3300002: 1345.png
+    3300004: 34343434.png
+    3300006: etetert.png
+    3300008: f1+1.png
+    3300010: f1.png
+    3300012: f3.png
+    3300014: f4.png
+    3300016: klik1+1.png
+    3300018: klik1.png
+    3300020: toga1+1.png
+    3300022: toga1.png
+    3300024: toga3.png
+    3300026: toga4.png
+    3300028: tors.png
+    3300030: "\u0437\u0440\u0430\u0447\u043A.png"
+    3300032: "\u0440\u0443\u043A\u04301+1+1.png"
+    3300034: "\u0440\u0443\u043A\u043011.png"
+    3300036: "\u0440\u0443\u043A\u04303.png"
+    3300038: "\u0443\u04411+1.png"
+    3300040: "\u0443\u04411.png"
+    3300042: "\u04441+1.png"
+    3300044: "\u04441.png"
+    3300046: "\u04443.png"
+    3300048: "\u0456\u0430\u04561+1.png"
+    3300050: "\u0456\u0430\u04561.png"
+    4300000: etetert.png
+    4300002: klik1.png
+    4300004: "\u0443\u04411+1.png"
+    4300006: "\u0443\u04411.png"
+    4300008: "\u0437\u0440\u0430\u0447\u043A.png"
+    4300010: klik1+1.png
+    4300012: 34343434.png
+    4300014: "\u0440\u0443\u043A\u04303.png"
+    4300016: "\u0440\u0443\u043A\u04301+1+1.png"
+    4300018: "\u0440\u0443\u043A\u043011.png"
+    4300020: "\u04443.png"
+    4300022: "\u04441+1.png"
+    4300024: "\u04441.png"
+    4300026: 1345.png
+    4300028: 134.png
+    4300030: "\u0456\u0430\u04561+1.png"
+    4300032: "\u0456\u0430\u04561.png"
+    4300034: toga1.png
+    4300036: toga1+1.png
+    4300038: toga3.png
+    4300040: toga4.png
+    4300042: f1.png
+    4300044: f1+1.png
+    4300046: f3.png
+    4300048: f4.png
+    4300050: tors.png
+    7400000: Mainline
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 0466b87d5b5bbae47940674d6fd16909, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Mainline
+      takeName: Mainline
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

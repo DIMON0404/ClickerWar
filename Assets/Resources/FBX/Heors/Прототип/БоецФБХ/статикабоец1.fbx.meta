@@ -1,0 +1,143 @@
+fileFormatVersion: 2
+guid: 3dec218396b51284b8bdc51580bda42e
+timeCreated: 1524662600
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: ' 1'
+    100002: ' 2'
+    100004: ' 3'
+    100006: ' 4'
+    100008: Anime Studio Camera
+    100010: B1
+    100012: B2
+    100014: B3
+    100016: B4
+    100018: B5
+    100020: "\u043B\u0435\u0432\u0430\u044F\u0440\u0443\u043A\u0430.png"
+    100022: "\u043D\u043E\u0433\u0438  .png"
+    100024: "\u043F\u0440\u0430\u0432\u0430\u044F\u0440\u0443\u043A\u0430.png"
+    100026: "\u0440\u044B\u0446\u0430\u0440\u044C"
+    100028: //RootNode
+    100030: "\u0442\u043E\u0440\u0441.png"
+    100032: "\u0448\u0435\u044F.png"
+    100034: "\u0448\u043B\u0435\u043C.png"
+    400000: ' 1'
+    400002: ' 2'
+    400004: ' 3'
+    400006: ' 4'
+    400008: Anime Studio Camera
+    400010: B1
+    400012: B2
+    400014: B3
+    400016: B4
+    400018: B5
+    400020: "\u043B\u0435\u0432\u0430\u044F\u0440\u0443\u043A\u0430.png"
+    400022: "\u043D\u043E\u0433\u0438  .png"
+    400024: "\u043F\u0440\u0430\u0432\u0430\u044F\u0440\u0443\u043A\u0430.png"
+    400026: "\u0440\u044B\u0446\u0430\u0440\u044C"
+    400028: //RootNode
+    400030: "\u0442\u043E\u0440\u0441.png"
+    400032: "\u0448\u0435\u044F.png"
+    400034: "\u0448\u043B\u0435\u043C.png"
+    2000000: Anime Studio Camera
+    2100000: No Name
+    2300000: "\u043B\u0435\u0432\u0430\u044F\u0440\u0443\u043A\u0430.png"
+    2300002: "\u043D\u043E\u0433\u0438  .png"
+    2300004: "\u043F\u0440\u0430\u0432\u0430\u044F\u0440\u0443\u043A\u0430.png"
+    2300006: "\u0448\u043B\u0435\u043C.png"
+    3300000: "\u043B\u0435\u0432\u0430\u044F\u0440\u0443\u043A\u0430.png"
+    3300002: "\u043D\u043E\u0433\u0438  .png"
+    3300004: "\u043F\u0440\u0430\u0432\u0430\u044F\u0440\u0443\u043A\u0430.png"
+    3300006: "\u0448\u043B\u0435\u043C.png"
+    4300000: "\u043F\u0440\u0430\u0432\u0430\u044F\u0440\u0443\u043A\u0430.png"
+    4300002: "\u043B\u0435\u0432\u0430\u044F\u0440\u0443\u043A\u0430.png"
+    4300004: "\u0448\u043B\u0435\u043C.png"
+    4300006: "\u043D\u043E\u0433\u0438  .png"
+    4300008: "\u0448\u0435\u044F.png"
+    4300010: "\u0442\u043E\u0440\u0441.png"
+    7400000: Mainline
+    9500000: //RootNode
+    13700000: "\u0442\u043E\u0440\u0441.png"
+    13700002: "\u0448\u0435\u044F.png"
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

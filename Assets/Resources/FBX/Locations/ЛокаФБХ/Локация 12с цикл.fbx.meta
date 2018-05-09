@@ -1,0 +1,221 @@
+fileFormatVersion: 2
+guid: 3fb8e7f802fe0754da491900818ac850
+timeCreated: 1524662603
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: ' 1'
+    100002: ' 2'
+    100004: ' 3'
+    100006: ' 4'
+    100008: Anime Studio Camera
+    100010: B1
+    100012: B2
+    100014: B3
+    100016: B4
+    100018: Layer 16
+    100020: //RootNode
+    100022: "\u0432\u0430\u043F\u0432\u043F\u0432\u0430\u043F.png"
+    100024: "\u0432\u0430\u043F\u0432\u043F\u043F.png"
+    100026: "\u0432\u0435\u043A\u0430.png"
+    100028: "\u0432\u0435\u043A\u04301"
+    100030: "\u0432\u0435\u043A\u0430111.png"
+    100032: "\u0433\u043E\u0440\u044B.png"
+    100034: "\u0434\u043E\u0440\u0430\u0431\u043E\u0442\u043A\u0438.png"
+    100036: "\u0434\u043E\u0440\u0430\u0431\u043E\u0442\u043A\u0438\u0432\u0430\u0432\u0430\u043F.png"
+    100038: "\u0434\u043E\u0440\u043E\u0433\u0430\u0430.png"
+    100040: "\u043A\u0430\u043C\u043D.png"
+    100042: "\u043D\u0435\u0431\u043E.png"
+    100044: "\u043E\u0431\u043B\u0430\u043A\u043E.png"
+    100046: "\u043F\u0430\u043B\u044C\u044C\u044C.png"
+    100048: "\u043F\u044B\u043B\u044C.png"
+    100050: "\u0441\u043A\u0430\u043B\u0456.png"
+    400000: ' 1'
+    400002: ' 2'
+    400004: ' 3'
+    400006: ' 4'
+    400008: Anime Studio Camera
+    400010: B1
+    400012: B2
+    400014: B3
+    400016: B4
+    400018: Layer 16
+    400020: //RootNode
+    400022: "\u0432\u0430\u043F\u0432\u043F\u0432\u0430\u043F.png"
+    400024: "\u0432\u0430\u043F\u0432\u043F\u043F.png"
+    400026: "\u0432\u0435\u043A\u0430.png"
+    400028: "\u0432\u0435\u043A\u04301"
+    400030: "\u0432\u0435\u043A\u0430111.png"
+    400032: "\u0433\u043E\u0440\u044B.png"
+    400034: "\u0434\u043E\u0440\u0430\u0431\u043E\u0442\u043A\u0438.png"
+    400036: "\u0434\u043E\u0440\u0430\u0431\u043E\u0442\u043A\u0438\u0432\u0430\u0432\u0430\u043F.png"
+    400038: "\u0434\u043E\u0440\u043E\u0433\u0430\u0430.png"
+    400040: "\u043A\u0430\u043C\u043D.png"
+    400042: "\u043D\u0435\u0431\u043E.png"
+    400044: "\u043E\u0431\u043B\u0430\u043A\u043E.png"
+    400046: "\u043F\u0430\u043B\u044C\u044C\u044C.png"
+    400048: "\u043F\u044B\u043B\u044C.png"
+    400050: "\u0441\u043A\u0430\u043B\u0456.png"
+    2000000: Anime Studio Camera
+    2100000: No Name
+    2300000: "\u0432\u0430\u043F\u0432\u043F\u0432\u0430\u043F.png"
+    2300002: "\u0432\u0430\u043F\u0432\u043F\u043F.png"
+    2300004: "\u0432\u0435\u043A\u0430.png"
+    2300006: "\u0432\u0435\u043A\u04301"
+    2300008: "\u0432\u0435\u043A\u0430111.png"
+    2300010: "\u0433\u043E\u0440\u044B.png"
+    2300012: "\u0434\u043E\u0440\u0430\u0431\u043E\u0442\u043A\u0438.png"
+    2300014: "\u0434\u043E\u0440\u0430\u0431\u043E\u0442\u043A\u0438\u0432\u0430\u0432\u0430\u043F.png"
+    2300016: "\u0434\u043E\u0440\u043E\u0433\u0430\u0430.png"
+    2300018: "\u043A\u0430\u043C\u043D.png"
+    2300020: "\u043D\u0435\u0431\u043E.png"
+    2300022: "\u043E\u0431\u043B\u0430\u043A\u043E.png"
+    2300024: "\u043F\u0430\u043B\u044C\u044C\u044C.png"
+    2300026: "\u043F\u044B\u043B\u044C.png"
+    2300028: "\u0441\u043A\u0430\u043B\u0456.png"
+    3300000: "\u0432\u0430\u043F\u0432\u043F\u0432\u0430\u043F.png"
+    3300002: "\u0432\u0430\u043F\u0432\u043F\u043F.png"
+    3300004: "\u0432\u0435\u043A\u0430.png"
+    3300006: "\u0432\u0435\u043A\u04301"
+    3300008: "\u0432\u0435\u043A\u0430111.png"
+    3300010: "\u0433\u043E\u0440\u044B.png"
+    3300012: "\u0434\u043E\u0440\u0430\u0431\u043E\u0442\u043A\u0438.png"
+    3300014: "\u0434\u043E\u0440\u0430\u0431\u043E\u0442\u043A\u0438\u0432\u0430\u0432\u0430\u043F.png"
+    3300016: "\u0434\u043E\u0440\u043E\u0433\u0430\u0430.png"
+    3300018: "\u043A\u0430\u043C\u043D.png"
+    3300020: "\u043D\u0435\u0431\u043E.png"
+    3300022: "\u043E\u0431\u043B\u0430\u043A\u043E.png"
+    3300024: "\u043F\u0430\u043B\u044C\u044C\u044C.png"
+    3300026: "\u043F\u044B\u043B\u044C.png"
+    3300028: "\u0441\u043A\u0430\u043B\u0456.png"
+    4300000: "\u0432\u0435\u043A\u0430.png"
+    4300002: "\u0432\u0435\u043A\u0430111.png"
+    4300004: "\u0432\u0435\u043A\u04301"
+    4300006: "\u0432\u0430\u043F\u0432\u043F\u0432\u0430\u043F.png"
+    4300008: "\u043D\u0435\u0431\u043E.png"
+    4300010: "\u0433\u043E\u0440\u044B.png"
+    4300012: "\u0434\u043E\u0440\u043E\u0433\u0430\u0430.png"
+    4300014: "\u0432\u0430\u043F\u0432\u043F\u043F.png"
+    4300016: "\u043E\u0431\u043B\u0430\u043A\u043E.png"
+    4300018: "\u0434\u043E\u0440\u0430\u0431\u043E\u0442\u043A\u0438\u0432\u0430\u0432\u0430\u043F.png"
+    4300020: "\u0434\u043E\u0440\u0430\u0431\u043E\u0442\u043A\u0438.png"
+    4300022: "\u0441\u043A\u0430\u043B\u0456.png"
+    4300024: "\u043A\u0430\u043C\u043D.png"
+    4300026: "\u043F\u044B\u043B\u044C.png"
+    4300028: "\u043F\u0430\u043B\u044C\u044C\u044C.png"
+    7400000: Mainline
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 368edb37320a7d94bbf97152fa4f5e86, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Mainline
+      takeName: Mainline
+      firstFrame: 0
+      lastFrame: 372
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
